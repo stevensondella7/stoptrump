@@ -1,12 +1,37 @@
 {
-    "name": "Stop Trump",
-    "symbol": "STOPTRUMP",
-    "description": "Токен четатам, которые хотят остановить Трампа",
-    "image": "https://raw.githubusercontent.com/stevensondella7/stoptrump/refs/heads/main/photo_2025-03-20_11-12-52.jpg",
-    "external_url": "https://t.me/stopTrump_coin",
-    "links": {
-      "telegram": "https://t.me/stopTrump_coin",
-      "discord": "https://discord.com/invite/Stopp_TRUMP",
-      "twitter": "https://x.com/Stopp_TRUMP"
+  "name": "Stop Trump Token",
+  "symbol": "STOPTRUMP",
+  "description": "A token created to raise awareness against Donald Trump's policies.",
+  "image": "https://raw.githubusercontent.com/stevensondella7/stoptrump/main/token_image.png",
+  "external_url": "https://t.me/stopTrump_coin",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Political"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024"
     }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/stevensondella7/stoptrump/main/token_image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7mfC1QziRmFmTJuiDxqLJE1wFbhubHPiKbCeJccFTZAC",
+        "share": 100
+      }
+    ]
+  },
+  "links": {
+    "telegram": "https://t.me/stopTrump_coin",
+    "discord": "https://discord.com/invite/Stopp_TRUMP",
+    "twitter": "https://x.com/Stopp_TRUMP"
   }
+}
